@@ -1,0 +1,21 @@
+{
+  "name": "smile",
+  "version": "1.0.0",
+  "description": "Type smile and just smile",
+  "main": "smile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "smile",
+    "happy",
+    "laugh",
+    "feeling"
+  ],
+  "author": "solodynamo",
+  "license": "ISC"
+}
