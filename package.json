@@ -1,5 +1,5 @@
 {
-  "name": "smile",
+  "name": "Smile",
   "version": "1.0.0",
   "description": "Type smile and just smile",
   "main": "laugh.js",
@@ -14,7 +14,8 @@
     "smile",
     "happy",
     "laugh",
-    "feeling"
+    "feeling",
+    "jokes"
   ],
   "author": "solodynamo",
   "license": "MIT",
