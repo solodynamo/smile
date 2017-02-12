@@ -2,13 +2,13 @@
   "name": "smile",
   "version": "1.0.0",
   "description": "Type smile and just smile",
-  "main": "smile.js",
+  "main": "laugh.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "git+https://github.com/solodynamo/smile.git"
   },
   "keywords": [
     "smile",
@@ -17,5 +17,14 @@
     "feeling"
   ],
   "author": "solodynamo",
-  "license": "ISC"
+  "license": "MIT",
+   "bin": {
+    "smile": "laugh.js"
+  },
+  "homepage": "https://github.com/solodynamo/smile#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "request": "^2.79.0"
+  }
 }
